@@ -11,3 +11,4 @@ LeetCode
 |70|[climbing stairs](https://leetcode-cn.com/problems/climbing-stairs/)|[Python](./algorithms/python/70_climbing_stairs.py)|
 |1|[2sum](https://leetcode-cn.com/problems/2sum/)|[Python](./algorithms/python/1_two_sum.py)|
 |15|[3sum](https://leetcode-cn.com/problems/3sum/)|[Python](./algorithms/python/15_three_sum_1.py)|
+|141|[linked_list_cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[Python](./algorithms/python/141_linked_list_cycle_3.py)|
