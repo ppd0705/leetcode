@@ -14,3 +14,4 @@ LeetCode
 |141|[linked_list_cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[Python](./algorithms/python/141_linked_list_cycle_3.py)|
 |206|[reverse_linked_list](https://leetcode-cn.com/problems/reverse-linked-list/)|[Python](./algorithms/python/206_reverse_linked_list_2.py)|
 |24|[swap_nodes_in_pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[Python](./algorithms/python/24_swap_nodes_in_pairs_2.py)|
+|142|[linked_list_cycle_ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[Python](./algorithms/python/142_linked_list_cycle_II_2.py)|
