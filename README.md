@@ -15,3 +15,7 @@ LeetCode
 |206|[reverse_linked_list](https://leetcode-cn.com/problems/reverse-linked-list/)|[Python](./algorithms/python/206_reverse_linked_list_2.py)|
 |24|[swap_nodes_in_pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[Python](./algorithms/python/24_swap_nodes_in_pairs_2.py)|
 |142|[linked_list_cycle_ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[Python](./algorithms/python/142_linked_list_cycle_II_2.py)|
+|26|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/python/26_remove_duplicates_from_sorted_array.py)|
+|189|[rotate_array](https://leetcode-cn.com/problems/rotate-array/)|[Python](./algorithms/python/189_rotate_array.py)|
+|21|[merge_two_sorted_lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[Python](./algorithms/python/21_merge_two_sorted_lists.py)|
+|88|[merge_two_sorted_array](https://leetcode-cn.com/problems/merge-sorted-array/)|[Python](./algorithms/python/88_merge_two_sorted_array.py)|
