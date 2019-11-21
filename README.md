@@ -19,3 +19,5 @@ LeetCode
 |189|[rotate_array](https://leetcode-cn.com/problems/rotate-array/)|[Python](./algorithms/python/189_rotate_array.py)|
 |21|[merge_two_sorted_lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[Python](./algorithms/python/21_merge_two_sorted_lists.py)|
 |88|[merge_two_sorted_array](https://leetcode-cn.com/problems/merge-sorted-array/)|[Python](./algorithms/python/88_merge_two_sorted_array.py)|
+|20|[valid_parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[Python](./algorithms/python/20_valid_parentheses.py)|
+|155|[min_stack](https://leetcode-cn.com/problems/min-stack/)|[Python](./algorithms/python/155_min_stack.py)|
