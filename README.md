@@ -25,3 +25,7 @@ LeetCode
 |239|[sliding_window_maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)|[Python](./algorithms/python/239_sliding_window_maximum.py)|
 |42|[trapping_rain_water](https://leetcode-cn.com/problems/trapping-rain-water/)|[Python](./algorithms/python/42_trapping_rain_water_2.py)|
 |641|[desing_circular_dequeue](https://leetcode-cn.com/problems/design-circular-dequeue/)|[Python](./algorithms/python/641_design_circular_dequeue_2.py)|
+|50|[pow_x_n](https://leetcode-cn.com/problems/pow-x-n/)|[Python](./algorithms/python/50_pow_x_n.py)|
+|78|[subsets](https://leetcode-cn.com/problems/subsets/)|[Python](./algorithms/python/78_subsets_2.py)|
+|169|[majority_elements](https://leetcode-cn.com/problems/majority-elements/)|[Python](./algorithms/python/169_majority_elements_4.py)|
+|51|[n_queens](https://leetcode-cn.com/problems/n-queens/)|[Python](./algorithms/python/51_n_queens_2.py)|
