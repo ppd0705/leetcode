@@ -48,6 +48,3 @@ class Solution:
         dfs(start, 0, bank)
 
         return min_count if min_count <= len(bank) else -1
-
-#print(Solution().minMutation("AACCGGTT", "AAACGGTA", ["AACCGGTA", "AACCGCTA", "AAACGGTA"]))
-print(Solution().minMutation("AACCGGTT", "AACCGGTA", ["AACCGGTA"]))

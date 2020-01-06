@@ -1,7 +1,8 @@
 from typing import List
 
+
 class Solution:
-    def minMutation(self, start, end, bank):
+    def minMutation(self, start: str, end: str, bank: List[str]) -> int:
         if end not in bank:
             return -1
         start_set = {start}
@@ -26,11 +27,3 @@ class Solution:
                 start_set, end_set = end_set, start_set
         return -1
 
-
-s = "AAAACCCC"
-e = "CCCCCCCC"
-b = ["AAAACCCA","AAACCCCA","AACCCCCA","AACCCCCC","ACCCCCCC","CCCCCCCC","AAACCCCC","AACCCCCC"]
-
-# print(Solution().minMutation("AACCGGTT", "AAACGGTA", ["AACCGGTA", "AACCGCTA", "AAACGGTA"]))
-print(Solution().minMutation(s, e, b))
-# print(Solution().minMutation("AACCGGTT", "AACCGGTA", ["AACCGGT"]))

@@ -3,8 +3,6 @@ from typing import List
 
 class Solution:
     def minMutation(self, start: str, end: str, bank: List[str]) -> int:
-        pass
-
         bank = set(bank)
         if end not in bank:
             return -1
@@ -32,11 +30,3 @@ class Solution:
                         bank.remove(new)
         return -1
 
-
-s = "AAAACCCC"
-e = "CCCCCCCC"
-b = ["AAAACCCA","AAACCCCA","AACCCCCA","AACCCCCC","ACCCCCCC","CCCCCCCC","AAACCCCC","AACCCCCC"]
-
-# print(Solution().minMutation("AACCGGTT", "AAACGGTA", ["AACCGGTA", "AACCGCTA", "AAACGGTA"]))
-print(Solution().minMutation(s, e, b))
-# print(Solution().minMutation("AACCGGTT", "AACCGGTA", ["AACCGGT"]))
