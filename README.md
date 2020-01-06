@@ -29,3 +29,5 @@ LeetCode
 |78|[subsets](https://leetcode-cn.com/problems/subsets/)|[Python](./algorithms/python/78_subsets_2.py)|
 |169|[majority_elements](https://leetcode-cn.com/problems/majority-elements/)|[Python](./algorithms/python/169_majority_elements_4.py)|
 |51|[n_queens](https://leetcode-cn.com/problems/n-queens/)|[Python](./algorithms/python/51_n_queens_2.py)|
+|102|[binary_tree_level_order_traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[Python](./algorithms/python/102_binary_tree_level_order_traversal_1.py)|
+|433|[minimum_genetic_mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)|[Python](./algorithms/python/433_minimum_genetic_mutation_3.py)|
