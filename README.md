@@ -31,5 +31,5 @@ LeetCode
 |51|[n_queens](https://leetcode-cn.com/problems/n-queens/)|[Python](./algorithms/python/51_n_queens_2.py)|
 |102|[binary_tree_level_order_traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[Python](./algorithms/python/102_binary_tree_level_order_traversal_1.py)|
 |433|[minimum_genetic_mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)|[Python](./algorithms/python/433_minimum_genetic_mutation_3.py)|
-|242|[valid_anagram](https://leetcode-cn.com/problems/valid-anagram/)|[Python](./algorithms/python/242_valid_anagram_3.py), [Go](./algorithms/go/valid_anagram.go)|
-|49|[group_anagrams](https://leetcode-cn.com/problems/group-anagrams/)|[Python](./algorithms/python/49_group_anagrams.py)|
+|242|[valid_anagram](https://leetcode-cn.com/problems/valid-anagram/)|[Python](./algorithms/python/242_valid_anagram_3.py), [Go](./algorithms/go/242/valid_anagram.go)|
+|49|[group_anagrams](https://leetcode-cn.com/problems/group-anagrams/)|[Python](./algorithms/python/49_group_anagrams.py), [Go](./algorithms/go/49/group_anagrams2.go)|
