@@ -10,7 +10,7 @@ LeetCode
 |11|[container with most water](https://leetcode-cn.com/problems/container-with-most-water/)|[Python](./algorithms/python/11_container_with_most_water.py)|
 |70|[climbing stairs](https://leetcode-cn.com/problems/climbing-stairs/)|[Python](./algorithms/python/70_climbing_stairs.py)|
 |1|[2sum](https://leetcode-cn.com/problems/2sum/)|[Python](./algorithms/python/1_two_sum.py), [Go](./algorithms/go/1/two_sum.go)|
-|15|[3sum](https://leetcode-cn.com/problems/3sum/)|[Python](./algorithms/python/15_three_sum_1.py)|
+|15|[3sum](https://leetcode-cn.com/problems/3sum/)|[Python](./algorithms/python/15_three_sum_1.py), [Go](./algorithms/go/15/three_sum.go)|
 |141|[linked_list_cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[Python](./algorithms/python/141_linked_list_cycle_3.py)|
 |206|[reverse_linked_list](https://leetcode-cn.com/problems/reverse-linked-list/)|[Python](./algorithms/python/206_reverse_linked_list_2.py)|
 |24|[swap_nodes_in_pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[Python](./algorithms/python/24_swap_nodes_in_pairs_2.py)|
