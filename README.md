@@ -35,3 +35,6 @@ LeetCode
 |49|[group_anagrams](https://leetcode-cn.com/problems/group-anagrams/)|[Python](./algorithms/python/49_group_anagrams.py), [Go](./algorithms/go/49/group_anagrams2.go)|
 |94|[binary_tree_inorder_traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[Python](./algorithms/python/94_binary_tree_inorder_traversal_3.py), [Go](./algorithms/go/94/bianry_tree_inorder_traversal_1.go)|
 |144|[binary_tree_preorder_traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[Python](./algorithms/python/144_binary_tree_preorder_traversal.py), [Go](./algorithms/go/144/bianry_tree_preorder_traversal_1.go)|
+|589|[n_ary_tree_preorder_traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[Python](./algorithms/python/589_n_ary_tree_preorder_traversal.py)|
+|590|[n_ary_tree_postorder_traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[Python](./algorithms/python/590_n_ary_tree_postorder_traversal.py)|
+|429|[n_ary_tree_level_order_traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[Python](./algorithms/python/429_n_ary_tree_level_order_traversal.py)|
