@@ -34,3 +34,4 @@ LeetCode
 |242|[valid_anagram](https://leetcode-cn.com/problems/valid-anagram/)|[Python](./algorithms/python/242_valid_anagram_3.py), [Go](./algorithms/go/242/valid_anagram.go)|
 |49|[group_anagrams](https://leetcode-cn.com/problems/group-anagrams/)|[Python](./algorithms/python/49_group_anagrams.py), [Go](./algorithms/go/49/group_anagrams2.go)|
 |94|[binary_tree_inorder_traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[Python](./algorithms/python/94_binary_tree_inorder_traversal_3.py), [Go](./algorithms/go/94/bianry_tree_inorder_traversal_1.go)|
+|144|[binary_tree_preorder_traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[Python](./algorithms/python/144_binary_tree_preorder_traversal.py), [Go](./algorithms/go/144/bianry_tree_preorder_traversal_1.go)|

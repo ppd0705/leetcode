@@ -6,11 +6,9 @@ import (
 )
 
 func TestEmptyTreeNode(t *testing.T) {
-	except := make([]int, 0)
-
 	ret = inorderTraversal(nil)
 
-	if reflect.DeepEqual(ret, except) {
+	if len(ret) != 0{
 		t.Fatalf("failed, ret: %v", ret)
 	}
 }
@@ -24,11 +22,11 @@ func TestTreeNode(t *testing.T) {
 	node1.Right = &node3
 	node3.Left = &node4
 
-	except := [4]int{2, 1, 4, 3}
+	except := []int{2, 1, 4, 3}
 
 	ret = inorderTraversal(&node1)
 
-	if reflect.DeepEqual(ret, except) {
-		t.Fatalf("failed, ret: %v", ret)
+	if !reflect.DeepEqual(ret, except) {
+		t.Fatalf("failed, ret: %v\n", ret)
 	}
 }
