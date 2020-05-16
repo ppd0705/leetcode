@@ -22,5 +22,5 @@ class Solution:
                 node = queue.popleft()
                 level.append(node.val)
                 queue.extend(node.children)
-                ret.append(level)
+            ret.append(level)
         return ret
