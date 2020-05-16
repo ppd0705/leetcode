@@ -8,7 +8,7 @@ LeetCode
 |146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|[Python](./algorithms/python/146_lru_cache.py)|
 |283|[move zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[Python](./algorithms/python/283_move_zeros_2.py)|
 |11|[container with most water](https://leetcode-cn.com/problems/container-with-most-water/)|[Python](./algorithms/python/11_container_with_most_water.py)|
-|70|[climbing stairs](https://leetcode-cn.com/problems/climbing-stairs/)|[Python](./algorithms/python/70_climbing_stairs.py)|
+|70|[climbing stairs](https://leetcode-cn.com/problems/climbing-stairs/)|[Python](./algorithms/python/70_climbing_stairs.py), [Go](algorithms/go/70/climbing_stairs.go)|
 |1|[2sum](https://leetcode-cn.com/problems/2sum/)|[Python](./algorithms/python/1_two_sum.py), [Go](./algorithms/go/1/two_sum.go)|
 |15|[3sum](https://leetcode-cn.com/problems/3sum/)|[Python](./algorithms/python/15_three_sum_1.py), [Go](./algorithms/go/15/three_sum.go)|
 |141|[linked_list_cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[Python](./algorithms/python/141_linked_list_cycle_3.py)|
@@ -38,3 +38,4 @@ LeetCode
 |589|[n_ary_tree_preorder_traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[Python](./algorithms/python/589_n_ary_tree_preorder_traversal.py), [Go](./algorithms/go/589/n_ary_tree_preorder_traversal.go)|
 |590|[n_ary_tree_postorder_traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[Python](./algorithms/python/590_n_ary_tree_postorder_traversal.py), [Go](algorithms/go/590/n_ary_tree_postorder_traversal_2.go)|
 |429|[n_ary_tree_level_order_traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[Python](./algorithms/python/429_n_ary_tree_level_order_traversal.py), [Go](algorithms/go/429/n_ary_tree_level_order_traversal.go)|
+|20|[generate_parentheses](https://leetcode-cn.com/problems/generate-parentheses/)|[Python](algorithms/python/22_generate_parentheses.py), [Go](algorithms/go/22/genarate_parentheses.go)|
