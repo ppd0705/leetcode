@@ -41,3 +41,5 @@ LeetCode
 |20|[generate_parentheses](https://leetcode-cn.com/problems/generate-parentheses/)|[Python](algorithms/python/22_generate_parentheses.py), [Go](algorithms/go/22/genarate_parentheses.go)|
 |226|[invert_binary_tree](https://leetcode-cn.com/problems/invert-binary-tree/)|[Python](algorithms/python/226_invert_bianry_tree.py), [Go](algorithms/go/226/invert_binary_tree.go)|
 |98|[validate_binary_search_tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[Python](algorithms/python/98_validate_binary_search_tree.py), [Go](algorithms/go/98/validate_binary_search_tree.go)|
+|104|[maxinum_depth_of_binary_tree](https://leetcode-cn.com/problems/maxinum-depth-of-binary-tree/)|[Python](algorithms/python/104_maxinum_deepth_of_binary_tree.py), [Go](algorithms/go/104/maxinum_depth_of_binary_tree.go)|
+|111|[mininum_depth_of_binary_tree](https://leetcode-cn.com/problems/mininum-depth-of-binary-tree/)|[Python](algorithms/python/111_mininum_deepth_of_binary_tree.py), [Go](algorithms/go/111/mininum_depth_of_binary_tree.go)|
