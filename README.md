@@ -44,3 +44,4 @@ LeetCode
 |104|[maxinum_depth_of_binary_tree](https://leetcode-cn.com/problems/maxinum-depth-of-binary-tree/)|[Python](algorithms/python/104_maxinum_deepth_of_binary_tree.py), [Go](algorithms/go/104/maxinum_depth_of_binary_tree.go)|
 |111|[mininum_depth_of_binary_tree](https://leetcode-cn.com/problems/mininum-depth-of-binary-tree/)|[Python](algorithms/python/111_mininum_deepth_of_binary_tree.py), [Go](algorithms/go/111/mininum_depth_of_binary_tree.go)|
 |297|[serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|[Python](algorithms/python/297_serialize_deserialize_binary_tree_2.py), [Go](algorithms/go/297/serialize_and_deserialize_binary_tree.go)|
+|236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](algorithms/python/236_lowest_common_ancestor_of_a_binary_tree.py), [Go](algorithms/go/236/lowest_common_ancestor_of_a_binary_tree.go)|
