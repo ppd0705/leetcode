@@ -47,3 +47,5 @@ LeetCode
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](algorithms/python/236_lowest_common_ancestor_of_a_binary_tree.py), [Go](algorithms/go/236/lowest_common_ancestor_of_a_binary_tree.go)|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](algorithms/python/105_construct_binary_tree_from_preorder_and_inorder_traversal.py), [Go](algorithms/go/105/construct_binary_tree_from_preorder_and_inorder_traversal_2.go)|
 |77|[combinations](https://leetcode-cn.com/problems/combinations/)|[Python](algorithms/python/77_combinations.py), [Go](algorithms/go/77/combinations.go)|
+|46|[permutations](https://leetcode-cn.com/problems/permutations/)|[Python](algorithms/python/46_permutations.py), [Go](algorithms/go/46/permutations.go)|
+|47|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)|[Python](algorithms/python/47_permutations.py), [Go](algorithms/go/47/permutations_2.go)|
