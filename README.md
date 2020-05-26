@@ -27,7 +27,7 @@ LeetCode
 |641|[desing_circular_dequeue](https://leetcode-cn.com/problems/design-circular-dequeue/)|[Python](./algorithms/python/641_design_circular_dequeue_2.py)|
 |50|[pow_x_n](https://leetcode-cn.com/problems/pow-x-n/)|[Python](./algorithms/python/50_pow_x_n.py), [Go](algorithms/go/50/powx_n.go)|
 |78|[subsets](https://leetcode-cn.com/problems/subsets/)|[Python](./algorithms/python/78_subsets_2.py), [Go](algorithms/go/78/subsets.go))|
-|169|[majority_elements](https://leetcode-cn.com/problems/majority-elements/)|[Python](./algorithms/python/169_majority_elements_4.py)|
+|169|[majority_elements](https://leetcode-cn.com/problems/majority-elements/)|[Python](./algorithms/python/169_majority_elements_4.py), [Go](algorithms/go/169/majority_element.go)|
 |51|[n_queens](https://leetcode-cn.com/problems/n-queens/)|[Python](./algorithms/python/51_n_queens_2.py)|
 |102|[binary_tree_level_order_traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[Python](./algorithms/python/102_binary_tree_level_order_traversal_1.py)|
 |433|[minimum_genetic_mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)|[Python](./algorithms/python/433_minimum_genetic_mutation_3.py)|
