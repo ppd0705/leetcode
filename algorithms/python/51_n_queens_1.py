@@ -12,9 +12,6 @@ class Solution:
             dale_diagonals[row - column] = 1
             queens[row] = column
 
-        def add_solution():
-            pass
-
         def remove_queen(row, column):
             cols[column] = 0
             hill_diagonals[row + column] = 0
