@@ -16,7 +16,6 @@ class Solution:
         queue = [(start, 0)]
 
         while queue:
-            print(queue)
             node, step = queue.pop(0)
 
             if node == end:

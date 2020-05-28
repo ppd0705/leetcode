@@ -3,8 +3,6 @@ from typing import List
 
 class Solution:
     def minMutation(self, start: str, end: str, bank: List[str]) -> int:
-        pass
-
         bank = set(bank)
         if end not in bank:
             return -1
@@ -19,16 +17,15 @@ class Solution:
         min_count = len(bank) + 1
 
         def dfs(current, count, current_bank):
-            # terminator
             nonlocal min_count
 
+            # terminator
             if count > min_count:
                 return
             if current == end:
                 if count < min_count:
                     min_count = count
                 return
-
             if not bank:
                 return
 
