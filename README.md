@@ -56,3 +56,4 @@ LeetCode
 |200|[number-of-islands](https://leetcode-cn.com/problems/number-of-islands)|[Python](algorithms/python/200_number_of_islands.py), [Go](algorithms/go/200/numbers_of_islands.go)|
 |529|[minesweeper](https://leetcode-cn.com/problems/minesweeper)|[Python](algorithms/python/529_minesweeper.py), [Go](algorithms/go/529/minesweeper.go)|
 |322|[coin-change](https://leetcode-cn.com/problems/coin-change)|[Python](algorithms/python/322_coin_change.py), [Go](algorithms/go/322/coin_change.go)|
+|860|[lemonade-change](https://leetcode-cn.com/problems/lemonade-change)|[Python](algorithms/python/860_lemonade_change.py), [Go](algorithms/go/860/lemonade_change.go)|
