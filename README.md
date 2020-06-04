@@ -60,3 +60,5 @@ LeetCode
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python](algorithms/python/122_best_time_buy_and_sell_stock_ii.py), [Go](algorithms/go/122/best_time_buy_and_sell_stock.go)|
 |455|[assign-cookies](https://leetcode-cn.com/problems/assign-cookies)|[Python](algorithms/python/455_asign_cookies.py), [Go](algorithms/go/455/assign_cookies.go)|
 |874|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation)|[Python](algorithms/python/874_working_robot_solution.py), [Go](algorithms/go/874/working_robot_solution.go)|
+|55|[jump-game](https://leetcode-cn.com/problems/jump-game)|[Python](algorithms/python/55_jump_game.py), [Go](algorithms/go/55/jump_game.go)|
+|45|[jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii)|[Python](algorithms/python/46_permutations.py), [Go](algorithms/go/45/jump_game_ii.go)|
