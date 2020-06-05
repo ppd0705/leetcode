@@ -26,7 +26,7 @@ LeetCode
 |42|[trapping_rain_water](https://leetcode-cn.com/problems/trapping-rain-water/)|[Python](./algorithms/python/42_trapping_rain_water_2.py)|
 |641|[desing_circular_dequeue](https://leetcode-cn.com/problems/design-circular-dequeue/)|[Python](./algorithms/python/641_design_circular_dequeue_2.py)|
 |50|[pow_x_n](https://leetcode-cn.com/problems/pow-x-n/)|[Python](./algorithms/python/50_pow_x_n.py), [Go](algorithms/go/50/powx_n.go)|
-|78|[subsets](https://leetcode-cn.com/problems/subsets/)|[Python](./algorithms/python/78_subsets_2.py), [Go](algorithms/go/78/subsets.go))|
+|78|[subsets](https://leetcode-cn.com/problems/subsets/)|[Python](./algorithms/python/78_subsets_2.py), [Go](algorithms/go/78/subsets.go)|
 |169|[majority_elements](https://leetcode-cn.com/problems/majority-elements/)|[Python](./algorithms/python/169_majority_elements_4.py), [Go](algorithms/go/169/majority_element.go)|
 |51|[n_queens](https://leetcode-cn.com/problems/n-queens/)|[Python](./algorithms/python/51_n_queens_2.py),[Go](algorithms/go/51/n_queens.go)|
 |102|[binary_tree_level_order_traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[Python](./algorithms/python/102_binary_tree_level_order_traversal_1.py),[Go](algorithms/go/102/binary_tree_level_order_traversal.go)|
@@ -62,3 +62,5 @@ LeetCode
 |874|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation)|[Python](algorithms/python/874_working_robot_solution.py), [Go](algorithms/go/874/working_robot_solution.go)|
 |55|[jump-game](https://leetcode-cn.com/problems/jump-game)|[Python](algorithms/python/55_jump_game.py), [Go](algorithms/go/55/jump_game.go)|
 |45|[jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii)|[Python](algorithms/python/46_permutations.py), [Go](algorithms/go/45/jump_game_ii.go)|
+|69|[sqrtx](https://leetcode-cn.com/problems/sqrtx)|[Python](algorithms/python/69_sqrtx.py), [Go](algorithms/go/69/sqrtx.go)|
+|367|[valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square)|[Python](algorithms/python/367_valid_perfect_square.py), [Go](algorithms/go/367/valid_perfect_square.go)|
