@@ -64,3 +64,6 @@ LeetCode
 |45|[jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii)|[Python](algorithms/python/46_permutations.py), [Go](algorithms/go/45/jump_game_ii.go)|
 |69|[sqrtx](https://leetcode-cn.com/problems/sqrtx)|[Python](algorithms/python/69_sqrtx.py), [Go](algorithms/go/69/sqrtx.go)|
 |367|[valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square)|[Python](algorithms/python/367_valid_perfect_square.py), [Go](algorithms/go/367/valid_perfect_square.go)|
+|33|[search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[Python](algorithms/python/33_search_in_rotated_sorted_array.py), [Go](algorithms/go/33/search_in_rotated_sorted_array.go)|
+|74|[search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix)|[Python](algorithms/python/74_search_a_2d_matrix.py), [Go](algorithms/go/74/search_a_2d_matrix.go)|
+|153|[find-minimum-in-rotated-sorted-array/submissions](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/submissions)|[Python](algorithms/python/153_find_minimum_in_rotated_sorted_array.py), [Go](algorithms/go/153/find_minimum_in_rotated_sorted_array.go)|
