@@ -67,4 +67,5 @@ LeetCode
 |33|[search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[Python](algorithms/python/33_search_in_rotated_sorted_array.py), [Go](algorithms/go/33/search_in_rotated_sorted_array.go)|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii)|[Python](algorithms/python/81_search_in_rotaed_sorted_array_ii.py), [Go](algorithms/go/81/search_in_rotated_sorted_arrya_ii.go)|
 |74|[search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix)|[Python](algorithms/python/74_search_a_2d_matrix.py), [Go](algorithms/go/74/search_a_2d_matrix.go)|
-|153|[find-minimum-in-rotated-sorted-array/submissions](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/submissions)|[Python](algorithms/python/153_find_minimum_in_rotated_sorted_array.py), [Go](algorithms/go/153/find_minimum_in_rotated_sorted_array.go)|
+|153|[find-minimum-in-rotated-sorted-array/submissions](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|[Python](algorithms/python/153_find_minimum_in_rotated_sorted_array.py), [Go](algorithms/go/153/find_minimum_in_rotated_sorted_array.go)|
+|62|[unique-paths](https://leetcode-cn.com/problems/unique-paths)|[Python](algorithms/python/62_uniqie_paths.py), [Go](algorithms/go/62/unique_paths.go)|
