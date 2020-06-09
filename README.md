@@ -70,3 +70,4 @@ LeetCode
 |153|[find-minimum-in-rotated-sorted-array/submissions](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|[Python](algorithms/python/153_find_minimum_in_rotated_sorted_array.py), [Go](algorithms/go/153/find_minimum_in_rotated_sorted_array.go)|
 |62|[unique-paths](https://leetcode-cn.com/problems/unique-paths)|[Python](algorithms/python/62_uniqie_paths.py), [Go](algorithms/go/62/unique_paths.go)|
 |63|[unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii)|[Python](algorithms/python/63_uniqie_paths_ii.py), [Go](algorithms/go/63/unique_path_ii.go)|
+|1143|[longest-common-sequence](https://leetcode-cn.com/problems/longest-common-sequence)|[Python](algorithms/python/1143_longest_common_sequence.py), [Go](algorithms/go/1143/longest_common_subsequence.go)|
