@@ -74,3 +74,4 @@ LeetCode
 |120|[triangle](https://leetcode-cn.com/problems/triangle)|[Python](algorithms/python/120_triangle.py), [Go](algorithms/go/120/triangle.go)|
 |53|[max-subarray](https://leetcode-cn.com/problems/max-subarry)|[Python](algorithms/python/53_maximum_subarry.py), [Go](algorithms/go/53/maximum_subarray.go)|
 |152|[maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray)|[Python](algorithms/python/152_max_product_subarray.py), [Go](algorithms/go/152/maximum_product_subarray.go)|
+|300|[longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence)|[Python](algorithms/python/300_longest_increasing_subsequence.py), [Go](algorithms/go/300/longest_increasing_subsequence.go)|
