@@ -53,11 +53,12 @@ def test():
     n5 = TreeNode(5)
     n1.left = n2
     n1.right = n3
-    n2.right = n4
-    n4.left = n5
+    n3.left = n4
+    n3.right = n5
 
-    for node in (None, n1, n2, n3, n4, n5):
+    for node in (None, n1, n2, n3, n4, n5)[1:2]:
         data = c.serialize(node)
+        print(data.split(","))
         n = c.deserialize(data)
         r = c.serialize(n)
         assert r == data, f"{node} {data} {n} {r}"
