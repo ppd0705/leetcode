@@ -85,3 +85,4 @@ LeetCode
 |208|[implement-trie-prefix-tree](https://leetcode-cn.com/problems/implement-trie-prefix-tree)|[Python](algorithms/python/208_implement_trie_prefix_tree.py), [Go](algorithms/go/208/implement_trie_prefix_tree_2.go)|
 |79|[word-search](https://leetcode-cn.com/problems/word-search)|[Python](algorithms/python/79_word_search.py), [Go](algorithms/go/79/word_search.go)|
 |212|[word-search-ii](https://leetcode-cn.com/problems/word-search-ii)|[Python](algorithms/python/212_word_search_ii.py), [Go](algorithms/go/212/word_search_ii.go)|
+|547|[friend-circles](https://leetcode-cn.com/problems/friend-circles)|[Python](algorithms/python/547_friend_circles.py), [Go](algorithms/go/547/friend_circles.go)|
