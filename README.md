@@ -87,3 +87,4 @@ LeetCode
 |212|[word-search-ii](https://leetcode-cn.com/problems/word-search-ii)|[Python](algorithms/python/212_word_search_ii.py), [Go](algorithms/go/212/word_search_ii.go)|
 |547|[friend-circles](https://leetcode-cn.com/problems/friend-circles)|[Python](algorithms/python/547_friend_circles.py), [Go](algorithms/go/547/friend_circles.go)|
 |130|[surrounded-regions](https://leetcode-cn.com/problems/surrounced-regions)|[Python](algorithms/python/130_surrounded_regions.py), [Go](algorithms/go/130/surrounded_regions.go)|
+|36|[valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku)|[Python](algorithms/python/36_valid_sudoku.py), [Go](algorithms/go/36/valid_sudoku.go)|
