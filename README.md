@@ -91,3 +91,4 @@ LeetCode
 |37|[sudoku-solver](https://leetcode-cn.com/problems/sudoku-solver)|[Python](algorithms/python/37_sudoku_solver.py), [Go](algorithms/go/37/sudoku_solver.go)|
 |1091|[shortest-path-in-binary-matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix)|[Python](algorithms/python/1091_shortest_path_in_binary_matrix.py), [Go](algorithms/go/1091/shortest_path_in_binary_matrix.go)|
 |773|[sliding-puzzle](https://leetcode-cn.com/problems/sliding-puzzle)|[Python](algorithms/python/773_sliding_puzzle.py), [Go](algorithms/go/773/sliding_puzzle.go)|
+|191|[number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits)|[Python](algorithms/python/191_number_of_1_bits.py), [Go](algorithms/go/191/number_of_1_bits.go)|
