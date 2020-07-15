@@ -93,3 +93,4 @@ LeetCode
 |773|[sliding-puzzle](https://leetcode-cn.com/problems/sliding-puzzle)|[Python](algorithms/python/773_sliding_puzzle.py), [Go](algorithms/go/773/sliding_puzzle.go)|
 |191|[number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits)|[Python](algorithms/python/191_number_of_1_bits.py), [Go](algorithms/go/191/number_of_1_bits.go)|
 |231|[power-of-two](https://leetcode-cn.com/problems/pwoer-of-two)|[Python](algorithms/python/231_power_of_two.py), [Go](algorithms/go/231/power_of_two.go)|
+|190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits)|[Python](algorithms/python/190_reverse_bits.py), [Go](algorithms/go/190/reverse_bits.go)|
