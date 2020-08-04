@@ -94,3 +94,4 @@ LeetCode
 |191|[number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits)|[Python](algorithms/python/191_number_of_1_bits.py), [Go](algorithms/go/191/number_of_1_bits.go)|
 |231|[power-of-two](https://leetcode-cn.com/problems/pwoer-of-two)|[Python](algorithms/python/231_power_of_two.py), [Go](algorithms/go/231/power_of_two.go)|
 |190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits)|[Python](algorithms/python/190_reverse_bits.py), [Go](algorithms/go/190/reverse_bits.go)|
+|1122|[relative-sort-array](https://leetcode-cn.com/problems/relative-sort-array)|[Python](algorithms/python/1122_relative_sort_array.py), [Go](algorithms/go/1122/relative_sort_array.go)|
