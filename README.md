@@ -95,3 +95,4 @@ LeetCode
 |231|[power-of-two](https://leetcode-cn.com/problems/pwoer-of-two)|[Python](algorithms/python/231_power_of_two.py), [Go](algorithms/go/231/power_of_two.go)|
 |190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits)|[Python](algorithms/python/190_reverse_bits.py), [Go](algorithms/go/190/reverse_bits.go)|
 |1122|[relative-sort-array](https://leetcode-cn.com/problems/relative-sort-array)|[Python](algorithms/python/1122_relative_sort_array.py), [Go](algorithms/go/1122/relative_sort_array.go)|
+|56|[merge-intervals](https://leetcode-cn.com/problems/merge-intervals)|[Python](algorithms/python/56_merge_intervals.py), [Go](algorithms/go/56/merge_intervals.go)|
