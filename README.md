@@ -96,3 +96,5 @@ LeetCode
 |190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits)|[Python](algorithms/python/190_reverse_bits.py), [Go](algorithms/go/190/reverse_bits.go)|
 |1122|[relative-sort-array](https://leetcode-cn.com/problems/relative-sort-array)|[Python](algorithms/python/1122_relative_sort_array.py), [Go](algorithms/go/1122/relative_sort_array.go)|
 |56|[merge-intervals](https://leetcode-cn.com/problems/merge-intervals)|[Python](algorithms/python/56_merge_intervals.py), [Go](algorithms/go/56/merge_intervals.go)|
+|493|[reverse-pairs](https://leetcode-cn.com/problems/reverse-pairs)|[Python](algorithms/python/493_reverse_pairs.py), [Go](algorithms/go/493/reverse_pairs.go)|
+|64|[minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum)|[Python](algorithms/python/64_min_path_sum.py), [Go](algorithms/go/64/minimum_path_sum.go)|
