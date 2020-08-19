@@ -99,3 +99,4 @@ LeetCode
 |493|[reverse-pairs](https://leetcode-cn.com/problems/reverse-pairs)|[Python](algorithms/python/493_reverse_pairs.py), [Go](algorithms/go/493/reverse_pairs.go)|
 |64|[minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum)|[Python](algorithms/python/64_min_path_sum.py), [Go](algorithms/go/64/minimum_path_sum.go)|
 |746|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|[Python](algorithms/python/746_min_cost_climbing_stairs.py), [Go](algorithms/go/746/min_cost_climbing_stairs.go)|
+|91|[decode-ways](https://leetcode-cn.com/problems/decode-ways)|[Python](algorithms/python/91_decode_ways.py), [Go](algorithms/go/91/decode_ways.go)|
