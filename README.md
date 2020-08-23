@@ -100,3 +100,4 @@ LeetCode
 |64|[minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum)|[Python](algorithms/python/64_min_path_sum.py), [Go](algorithms/go/64/minimum_path_sum.go)|
 |746|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|[Python](algorithms/python/746_min_cost_climbing_stairs.py), [Go](algorithms/go/746/min_cost_climbing_stairs.go)|
 |91|[decode-ways](https://leetcode-cn.com/problems/decode-ways)|[Python](algorithms/python/91_decode_ways.py), [Go](algorithms/go/91/decode_ways.go)|
+|32|[longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)|[Python](algorithms/python/32_longest_valid_parentheses.py), [Go](algorithms/go/32/longest_valid_parentheses.go)|

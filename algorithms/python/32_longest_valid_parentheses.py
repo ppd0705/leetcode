@@ -1,5 +1,5 @@
 class Solution:
-    def longestValidParentheses(self, s: str) -> int:
+    def longestValidParentheses0(self, s: str) -> int:
         if not s:
             return 0
         dp = [0] * len(s)
@@ -10,6 +10,34 @@ class Solution:
                 elif i - dp[i - 1] > 0 and s[i - dp[i - 1] - 1] == '(':
                     dp[i] = dp[i - 1] + 2 + (0 if i - dp[i - 1] - 2 < 0 else dp[i - dp[i - 1] - 2])
         return max(dp)
+
+    def longestValidParentheses(self, s: str) -> int:
+        left = right = max_length = 0
+
+        for c in s:
+            if c == '(':
+                left += 1
+            else:
+                right += 1
+
+            if left == right:
+                max_length = max(max_length, 2 * left)
+            elif right > left:
+                left = right = 0
+
+        left = right = 0
+        for i in range(len(s) - 1, -1, -1):
+            c = s[i]
+            if c == '(':
+                left += 1
+            else:
+                right += 1
+
+            if left == right:
+                max_length = max(max_length, 2 * left)
+            elif right < left:
+                left = right = 0
+        return max_length
 
 
 def test():
