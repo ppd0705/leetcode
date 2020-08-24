@@ -1,0 +1,3 @@
+class Solution:
+    def toLowerCase(self, str: str) -> str:
+        return "".join((chr(ord(c) + 32)) if 65 <= ord(c) <= 91 else c for c in str)
