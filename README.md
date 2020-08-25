@@ -103,4 +103,5 @@ LeetCode
 |32|[longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)|[Python](algorithms/python/32_longest_valid_parentheses.py), [Go](algorithms/go/32/longest_valid_parentheses.go)|
 |709|[to-lower-case](https://leetcode-cn.com/problems/to-lower-case)|[Python](algorithms/python/709_to_lower_case.py), [Go](algorithms/go/709/to_lower_case.go)|
 |58|[length-of-last-word](https://leetcode-cn.com/problems/length-of-last-word)|[Python](algorithms/python/58_length_of_last_word.py), [Go](algorithms/go/58/length_of_last_word.go)|
-|7|71[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones)|[Python](algorithms/python/771_jewels_and_stones.py), [Go](algorithms/go/771/jewels_and_stones.go)|
+|71|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones)|[Python](algorithms/python/771_jewels_and_stones.py), [Go](algorithms/go/771/jewels_and_stones.go)|
+|387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[Python](algorithms/python/387_first_unique_character_in_string.py), [Go](algorithms/go/387/first_unique_character_in_a_string.go)|
