@@ -106,3 +106,4 @@ LeetCode
 |71|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones)|[Python](algorithms/python/771_jewels_and_stones.py), [Go](algorithms/go/771/jewels_and_stones.go)|
 |387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[Python](algorithms/python/387_first_unique_character_in_string.py), [Go](algorithms/go/387/first_unique_character_in_a_string.go)|
 |8|[string-to-integer-atoi](https://leetcode-cn.com/problems/string-to-integer-atoi)|[Python](algorithms/python/8_atoi.py), [Go](algorithms/go/8/a_to_i.go)|
+|14|[longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix)|[Python](algorithms/python/14_longest_common_prefix.py), [Go](algorithms/go/14/longest_common_prefix.go)|
