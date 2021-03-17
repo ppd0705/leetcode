@@ -109,3 +109,4 @@ LeetCode
 |14|[longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix)|[Python](algorithms/python/14_longest_common_prefix.py), [Go](algorithms/go/14/longest_common_prefix.go)|
 |705|[design-hashset](https://leetcode-cn.com/problems/design-hashset)|开放寻址([Go](algorithms/go/705/design_hashset.go)),链表([Go](algorithms/go/705/design_hashset2.go))|
 |59|[spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii)|迭代([Go](algorithms/go/59/spiral_matrix_ii.go))|
+|115|[distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences)|递归([Go](algorithms/go/115/distinct_subsequences.go))|
