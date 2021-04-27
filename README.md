@@ -112,3 +112,4 @@ LeetCode
 |115|[distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences)|递归([Go](algorithms/go/115/distinct_subsequences.go))|
 |73|[set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)|迭代([Go](algorithms/go/73/set_matrix_zeroes.go))|
 |377|[combination-sum-iv](https://leetcode-cn.com/problems/combination-sum-iv)|动态规划([Go](algorithms/go/377/combination_sum_iv.go))|
+|633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)|双指针([Go](algorithms/go/633/sum_of_square_numbers.go))|
