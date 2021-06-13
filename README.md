@@ -115,3 +115,4 @@ LeetCode
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)|双指针([Go](algorithms/go/633/sum_of_square_numbers.go))|
 |137|[single-number-ii](https://leetcode-cn.com/problems/single-number-ii)|位运算([Go](algorithms/go/137/single_number_ii2.go))|
 |690|[employee-importance](https://leetcode-cn.com/problems/employee-importance)|深度优先([Go](algorithms/go/690/employee_importance.go))|
+|278|[first-bad-version](https://leetcode-cn.com/problems/first-bad-version)|二分搜索([Go](algorithms/go/278/first_bad_version.go))|
