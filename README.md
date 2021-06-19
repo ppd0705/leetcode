@@ -116,3 +116,5 @@ LeetCode
 |137|[single-number-ii](https://leetcode-cn.com/problems/single-number-ii)|位运算([Go](algorithms/go/137/single_number_ii2.go))|
 |690|[employee-importance](https://leetcode-cn.com/problems/employee-importance)|深度优先([Go](algorithms/go/690/employee_importance.go))|
 |278|[first-bad-version](https://leetcode-cn.com/problems/first-bad-version)|二分搜索([Go](algorithms/go/278/first_bad_version.go))|
+|486|[predict-with-winner](https://leetcode-cn.com/problems/predict-with-winner)|递归([Go](algorithms/go/486/predict_with_winner.go)),动态规划([Go](algorithms/go/486/predict_with_winner2.go))|
+|877|[stone-game](https://leetcode-cn.com/problems/game-stone)|动态规划([Go](algorithms/go/877/stone_game.go))|
