@@ -118,3 +118,4 @@ LeetCode
 |278|[first-bad-version](https://leetcode-cn.com/problems/first-bad-version)|二分搜索([Go](algorithms/go/278/first_bad_version.go))|
 |486|[predict-with-winner](https://leetcode-cn.com/problems/predict-with-winner)|递归([Go](algorithms/go/486/predict_with_winner.go)),动态规划([Go](algorithms/go/486/predict_with_winner2.go))|
 |877|[stone-game](https://leetcode-cn.com/problems/game-stone)|动态规划([Go](algorithms/go/877/stone_game.go))|
+|1600|[throne-inheritance](https://leetcode-cn.com/problems/throne-inheritance)|前序遍历([Go](algorithms/go/1600/throne_inheritance.go))|
