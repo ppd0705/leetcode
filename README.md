@@ -124,3 +124,4 @@ LeetCode
 |909|[snakes-and-ladders](https://leetcode-cn.com/problems/snakes-and-ladders)|层序遍历([Go](algorithms/go/909/snakes_and_ladders.go))|
 |645|[set-mismatch](https://leetcode-cn.com/problems/set-mismatch)|数学([Go](algorithms/go/645/set_mismatch.go)),迭代([Go](algorithms/go/645/set_mismatch2.go)),哈希([Go](algorithms/go/645/set_mismatch3.go))|
 |981|[time-based-key-value-store](https://leetcode-cn.com/problems/time-based-key-value-store)|哈希+二分查找([Go](algorithms/go/981/time_based_key_value_store.go))|
+|1736|[latest-time-by-replacing-hidden-digits](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits)|枚举([Go](algorithms/go/1736/latest_time_by_replacing_hidden_digits.go))|
