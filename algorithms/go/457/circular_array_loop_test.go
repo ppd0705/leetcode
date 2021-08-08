@@ -7,6 +7,7 @@ func TestCircularArray(t *testing.T) {
 		arr    []int
 		target bool
 	}{
+		{[]int{-2,-3, -9}, false},
 		{[]int{1,-1}, false},
 		{[]int{1}, false},
 		{[]int{1,1}, true},

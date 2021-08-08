@@ -3,7 +3,7 @@ package main
 func circularArrayLoop(nums []int) bool {
 	n := len(nums)
 	next := func(cur int) int {
-		return ((cur + nums[cur]) + n)  % n
+		return (((cur + nums[cur]) % n) + n) % n
 	}
 
 	for i, num := range nums {
