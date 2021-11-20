@@ -129,3 +129,4 @@ LeetCode
 |457|[circular-array-loop](https://leetcode-cn.com/problems/circular-array-loop)|双指针([Go](algorithms/go/457/circular_array_loop.go))|
 |1583|[count-unhappy-friends](https://leetcode-cn.com/problems/count-unhappy-friends)|模拟1([Go](algorithms/go/1583/count_unhappy_friends.go)),模拟2([Go](algorithms/go/1583/count_unhappy_friends2.go))|
 |677|[map_sum_pairs](https://leetcode-cn.com/problems/map-sum-pairs)|bisect([Go](algorithms/go/677/map_sum_pairs.go),[Py](algorithms/python/677/map_sum_pairs.go))|
+|594|[longest_harmonious_subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|hashmap([Go](algorithms/go/677/map_sum_pairs.go))|
