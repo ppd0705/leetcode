@@ -131,3 +131,4 @@ LeetCode
 |677|[map-sum-pairs](https://leetcode-cn.com/problems/map-sum-pairs)|bisect([Go](algorithms/go/677/map_sum_pairs.go),[Py](algorithms/python/677/map_sum_pairs.py))|
 |594|[longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|hashmap([Go](algorithms/go/594/longest_harmonious_subsequence.go))|
 |519|[random-flip-matrix](https://leetcode-cn.com/problems/random-flip-matrix)|hashmap([Go](algorithms/go/519/random_flip_matrix.go)),hashmap2([Go](algorithms/go/519/random_flip_matrix2.go))|
+|390|[elimination-game](https://leetcode-cn.com/problems/elimination-game)|math([Go](algorithms/go/390/elimination_game.go))|
