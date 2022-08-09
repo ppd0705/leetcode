@@ -135,3 +135,4 @@ LeetCode
 |1345|[jump-game-iv](https://leetcode-cn.com/problems/jump-game-iv)|BFS([Go](algorithms/go/1345/jump_game_iv.go))|
 |1020|[number-of-enclaves](https://leetcode-cn.com/problems/number-of-enclaves)|BFS([Go](algorithms/go/1020/number_of_enclaves.go))|
 |23|[merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists)|heap([Go](algorithms/go/23/merge_k_sorted_lists.go)),loser_tree([Go](algorithms/go/23/merge_k_sorted_lists2.go))|
+|210|[course-schedule-ii](https://leetcode-cn.com/problems/cource-schedule-ii)|bfs([Go](algorithms/go/210/course_schedule_2.go)),dfs([Go](algorithms/go/210/course_schedule_2_2.go))|
